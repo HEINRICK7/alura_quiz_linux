@@ -1,3 +1,4 @@
+import React from 'react';
 import styled from 'styled-components';
 
 // src/components/Footer/index.js
@@ -35,7 +36,7 @@ export default function Footer(props) {
       </a>
       <p>
         Orgulhosamente criado durante
-        {' '}
+        {'Carlos Henrique da Costa '}
         a
         {' '}
         <a href="https://www.alura.com.br/">
@@ -44,4 +45,5 @@ export default function Footer(props) {
       </p>
     </FooterWrapper>
   );
+// eslint-disable-next-line eol-last
 }
