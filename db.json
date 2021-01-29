@@ -1,5 +1,5 @@
 {
-  "bg": "https://images7.alphacoders.com/904/thumb-1920-904233.png",
+  "bg": "https://i1.chainbulletin.com/img/2020/05/cd127c388b98b1c494958d367c5b1ca174e5.png",
   "title": "Quiz CSS da Alura",
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
@@ -31,7 +31,7 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#e5627c;",
+      "primary": "#4DAF7C",
       "secondary": "#29b6f6",
       "mainBg": "#171B35",
       "contrastText": "#FFFFFF",

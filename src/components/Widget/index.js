@@ -3,7 +3,7 @@ import styled from 'styled-components';
 const Widget = styled.div`
   margin-top: 90px;
   margin-bottom: 0;
-  border: 1px solid #e5627c;
+  border: 1px solid #4DAF7C;
   background-color: #1C1814;
   border-radius: 4px;
   overflow: hidden;

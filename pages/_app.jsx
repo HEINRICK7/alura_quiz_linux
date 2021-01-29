@@ -3,19 +3,12 @@
 import React from 'react';
 import { createGlobalStyle, ThemeProvider } from 'styled-components';
 import db from '../db.json';
-import './fonts/mrrobot-cufonfonts-webfont/style.css';
 
 const GlobalStyle = createGlobalStyle`
-
-@font-face {
-    font-family: 'MrRobot';
-    src: url('../pages/fonts/mr-robot/MR ROBOT') format('ttf');
-    }
 
   * {
     box-sizing: border-box;
 
-  }
   body {
     margin: 0;
     padding: 0;
