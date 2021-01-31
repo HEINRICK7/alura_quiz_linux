@@ -36,7 +36,7 @@ export default function Footer(props) {
       </a>
       <p>
         Orgulhosamente criado durante
-        {'Carlos Henrique da Costa '}
+        {' '}
         a
         {' '}
         <a href="https://www.alura.com.br/">

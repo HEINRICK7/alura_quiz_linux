@@ -1,28 +1,79 @@
 {
-  "bg": "https://i1.chainbulletin.com/img/2020/05/cd127c388b98b1c494958d367c5b1ca174e5.png",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://wallpapercave.com/wp/AOyqeSs.jpg",
+  "title": "Quiz Linux",
+  "description": "Você Conhece o Linux? Teste seu Conhecimento agora!",
   "questions": [
     {
       "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
-      "answer": 2,
+      "title": "Como deletar um diretório no Linux?",
+      "description": "deletar pasta",
+      "answer": 3,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "ls",
+        "delete",
+        "remove",
+        "mrdir"
       ]
     },
     {
       "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "title": "Ao procurar todos os processos em execução em um sistema Linux, que comando você deve usar?",
+      "description": "",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "ps",
+         "service",
+         "xrun",
+         "oterm"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Qual das opções a seguir é um comando no Linux?",
+      "description": "Faz tempo em haha",
+      "answer": 3,
+      "alternatives": [
+         "t",
+         "w",
+         "x",
+         "Tudas as alternativas"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": 
+      "Qual é o procedimento mais comum para compilar programas no Linux?",
+      "description": "Faz tempo em haha",
+      "answer": 2,
+      "alternatives": [
+         "compile file_name",
+         "gcc file_name",
+         ".\/configure && make && make install",
+         "make file_name"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Qual operador aritmético você não pode usar?",
+      "description": "Faz tempo em haha",
+      "answer": 2,
+      "alternatives": [
+         "+",
+         "-",
+         " \\ \\",
+         "%"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Qual comando pode ser usado para localizar uma palavra em um arquivo de texto?",
+      "description": "Faz tempo em haha",
+      "answer": 3,
+      "alternatives": [
+         "cut",
+         "sort",
+         "find",
+         "grep"
       ]
     }
   ],
