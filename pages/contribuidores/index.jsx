@@ -66,8 +66,8 @@ export default function ContributorsPage({ contributors }) {
         >
           {
             contributors.map(({ user, projectUrl }, indice) => (
-              // eslint-disable-next-line react/jsx-key
-              <Widget style={{ maxWidth: '400px' }}>
+              
+              <Widget key={user} style={{ maxWidth: '400px' }}>
                 <Widget.Header style={{ alignItems: 'center' }}>
                   <img width="25" height="25" src={`https://github.com/${user}.png`} style={{ marginRight: '15px', borderRadius: '100%' }} />
                   <h2>
