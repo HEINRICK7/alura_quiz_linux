@@ -78,7 +78,10 @@
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/",
+    "https://alura-quiz-linux.heinrick7.vercel.app/"
+
   ],
   "theme": {
     "colors": {
