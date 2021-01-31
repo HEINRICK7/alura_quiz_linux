@@ -13,6 +13,7 @@
     "antd": "^4.11.2",
     "file-loader": "^6.2.0",
     "framer-motion": "^3.2.2-rc.1",
+    "fs": "0.0.1-security",
     "motion": "^5.0.0-beta26",
     "next": "latest",
     "prop-types": "^15.7.2",
